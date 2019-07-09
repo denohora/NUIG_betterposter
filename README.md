@@ -7,7 +7,7 @@ http://www.nuigalway.ie
 To learn about the #betterposter movement to improve academic posters, check out this youtube video by Mike Morrison:
 https://youtu.be/1RwJbhkCA58
 
-Listen to Mike discuss the #betterposter on everything hertz:
+Listen to Mike Morrison discuss the #betterposter on everything hertz:
 https://everythinghertz.com/87
 
 These templates are modified versions of 
