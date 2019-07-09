@@ -1,11 +1,14 @@
 # NUIG_betterposter
-Unofficial betterposter Powerpoint and latex templates using NUI Galway colour palette for academic posters
+Unofficial #betterposter Powerpoint and latex templates using NUI Galway colour palette for academic posters
 
 National University of Ireland (NUI) Galway is a research-lead university on Ireland's beautiful west coast:
 http://www.nuigalway.ie
 
-To learn about the #betterposter movement to improve academic posters, check out this youtube video:
+To learn about the #betterposter movement to improve academic posters, check out this youtube video by Mike Morrison:
 https://youtu.be/1RwJbhkCA58
+
+Listen to Mike discuss the #betterposter on everything hertz:
+https://everythinghertz.com/87
 
 These templates are modified versions of 
 * Powerpoint templates provided here
